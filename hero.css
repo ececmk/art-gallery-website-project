@@ -1,72 +1,69 @@
-
 .hero-container {
-    display: flex;
-    max-height: 1275px;
-    
+  display: flex;
+  max-height: 1275px;
 }
 .background-container {
-    display: flex;
-    position: relative;
-    z-index: 1; 
+  display: flex;
+  position: relative;
+  z-index: 1;
 }
 .black-container {
-    background-color: #151515;
-    width: 50%;
-    width: 480px;
-    box-sizing: border-box;
-    max-width: 450px; 
+  background-color: #151515;
+  width: 50%;
+  width: 480px;
+  box-sizing: border-box;
+  max-width: 450px;
 }
 .image-container {
-    width: 50%;
-    max-width: 540px;
-    box-sizing: border-box;
+  width: 50%;
+  max-width: 540px;
+  box-sizing: border-box;
 }
 
 .front-container {
-    width: 100%;
-    display: flex;
-    position:absolute;
-    z-index: 2;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  z-index: 2;
 }
 
 .hero-title {
-    width: 50%;
-    max-width: 514px;
-    font-family: 'Big Shoulders Display', cursive;
-    font-weight: 900;
-    font-size: 82px;
-    line-height: 88px;
-    color: white;
-    margin-top: 190px;
-    margin-left: 200px;
-    margin-right: 200px;
-    
-     }
+  width: 50%;
+  max-width: 514px;
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 900;
+  font-size: 82px;
+  line-height: 88px;
+  color: white;
+  margin-top: 190px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
 
 .hero-title span {
-    color: #151515;
-    }
+  color: #151515;
+}
 
 .hero-context {
-    width: 50%;
-    max-width: 350px;
-    font-family: 'Outfit';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 22px;
-    line-height: 32px;
-    color:#444444;  
-    margin-top: 190px;
-    }
+  width: 50%;
+  max-width: 350px;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 32px;
+  color: #444444;
+  margin-top: 190px;
+}
 
 .hero-button {
-    background-color: #151515;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin-top: 64px;
-    }
+  background-color: #151515;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 64px;
+}

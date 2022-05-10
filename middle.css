@@ -68,3 +68,45 @@
     font-size: 22px;
     line-height: 32px;
 }
+
+.footer {
+    background-color: #151515;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    margin-top: 180px;
+    padding: 80px 166px 80px 166px;
+}
+
+.footer-title {
+    width: 25%;
+    max-width: 160px;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 900;
+    font-size: 26px;
+    margin-right: 110px;
+   
+
+}
+
+.footer-content {
+    width: 50%;
+    max-width: 430px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    margin-right: 110px;
+ 
+}
+
+.footer-social-media-icons {
+    width: 25%;
+ 
+
+}
+
+.icons {
+    padding-right: 20px;
+}
